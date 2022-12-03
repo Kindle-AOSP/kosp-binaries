@@ -1,4 +1,5 @@
 # kosp-binaries
+<<<<<<< HEAD
 Prebuilt KOSP Builds for Kindle 8th
 
 ## Update Log
@@ -19,3 +20,4 @@ Prebuilt KOSP Builds for Kindle 8th
 
    1. Root Explorer
    2. MT-Eink Launcher
+
