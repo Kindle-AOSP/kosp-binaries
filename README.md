@@ -1,5 +1,4 @@
 # kosp-binaries
-<<<<<<< HEAD
 Prebuilt KOSP Builds for Kindle 8th
 
 ## Update Log
